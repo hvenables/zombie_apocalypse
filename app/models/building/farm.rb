@@ -1,0 +1,3 @@
+class Building::Farm
+
+end
