@@ -1,0 +1,3 @@
+class Wall < Building
+
+end

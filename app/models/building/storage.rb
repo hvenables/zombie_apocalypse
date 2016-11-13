@@ -1,0 +1,3 @@
+class Storage < Building
+
+end

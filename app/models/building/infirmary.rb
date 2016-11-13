@@ -1,0 +1,3 @@
+class Infirmary < Building
+
+end

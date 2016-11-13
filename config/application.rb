@@ -23,6 +23,7 @@ module ZombieApocalypse
     # -- all .rb files in that directory are automatically loaded.
     configure do
       config.assets << Rails.root.join("app", "services")
+      config.autoload_paths += Dir[Rails.root.join('app', 'models', '{*/}')]
     end
   end
 end

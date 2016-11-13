@@ -1,0 +1,3 @@
+class South < Wall
+
+end

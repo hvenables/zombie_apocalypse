@@ -1,3 +1,3 @@
-class Building::Farm
+class Farm < Building
 
 end

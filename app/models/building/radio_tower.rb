@@ -1,0 +1,3 @@
+class RadioTower < Building
+
+end

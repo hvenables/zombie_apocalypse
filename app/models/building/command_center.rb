@@ -1,0 +1,3 @@
+class CommandCenter < Building
+
+end
